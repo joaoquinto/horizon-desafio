@@ -5,6 +5,7 @@
 ## Autores
 
 - [@joaoquinto](https://github.com/joaoquinto)
+- [Portfólio](https://joaoquinto.github.io/joaoquinto-portfolio/)
 
 ## Aprendizados
 
