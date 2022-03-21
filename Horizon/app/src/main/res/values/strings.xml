@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Prontuário para covid</string>
+    <string name="nomeLabel">Nome:</string>
+    <string name="idadeLabel">Idade:</string>
+    <string name="nomePlaceholder">Digite seu Nome</string>
+    <string name="idadePlaceholder">Digite sua idade</string>
+    <string name="title">Por favor insirá os dados abaixo</string>
+
+    <string name="temperaturaLabel">Temperatura:</string>
+    <string name="temperaturaPlaceholder">Digite a sua temperatura corportal</string>
+    <string name="tosseChecker">Está tossindo?</string>
+    <string name="tosseLabel">Está tossindo há quantos dias?</string>
+    <string name="dorDeCabecaLabel">Está sentindo dor de cabeça?</string>
+    <string name="dias">Digite o total de dias</string>
+    <string name="dorDeCabecaChecker">Está tendo dor de cabeça?</string>
+    <string name="paisesLabel">Você visitou algum desses países?</string>
+    <string name="semanasPlaceholder">Digite há quantas semanas</string>
+    <string name="italia">Itália</string>
+    <string name="china">China</string>
+    <string name="indonesia">Indonésia</string>
+    <string name="portugal">Portugal</string>
+    <string name="eua">EUA</string>
+    <string name="cadastrar">Cadastrar prontuário</string>
+    <string name="nenhum">Nenhum</string>
+</resources>
